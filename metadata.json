@@ -1,0 +1,6 @@
+{
+  "name": "ZeroTrustX 2.0 - Adaptive Zero Trust Platform",
+  "description": "Continuous, adaptive Zero Trust Network Access and Identity Security Platform with real-time risk scoring, explainable policy decisions, and interactive threat simulation laboratory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
